@@ -20,7 +20,7 @@ Las listas ordenadas se crean con números seguidos de un punto.
 
 [Enlace a otro fichero Markdown](otro_fichero.md)
 
-![Descripción de la imagen](https://via.placeholder.com/150)
+![Descripción de la imagen](https://www.esic.edu/sites/default/files/styles/full/public/2023-07/FotoJet%20%2829%29%20%281%29.jpg?itok=YBm7ssam)
 
 | Encabezado 1 | Encabezado 2 |
 |---------------|---------------|
