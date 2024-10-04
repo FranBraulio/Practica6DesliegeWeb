@@ -2,10 +2,10 @@
 # Titulo Principal
 ##Subtitulo
 Este es un **párrafo** de ejemplo donde podemos incluir palabras en **negrita**, en _cursiva_, y tambi>
-python
+```python
 def hola_mundo():
     print("¡Hola, mundo!")
-
+```
 ### 5. Lista ordenada
 Las listas ordenadas se crean con números seguidos de un punto.
 
