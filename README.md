@@ -1,7 +1,7 @@
   GNU nano 4.8                                  README.md                                              
 # Titulo Principal
-##Subtitulo
-Este es un **párrafo** de ejemplo donde podemos incluir palabras en **negrita**, en _cursiva_, y tambi>
+## Subtitulo
+Este es un **párrafo** de ejemplo donde podemos incluir palabras en **negrita**, en _cursiva_, y también texto en `código` (por ejemplo esto está escrito en código).
 ```python
 def hola_mundo():
     print("¡Hola, mundo!")
