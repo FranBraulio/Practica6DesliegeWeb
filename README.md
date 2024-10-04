@@ -21,7 +21,7 @@ Las listas ordenadas se crean con números seguidos de un punto.
 
 [Enlace a otro fichero Markdown](otro_fichero.md)
 
-![Descripción de la imagen]([https://via.placeholder.com/150](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.linkedin.com%2Flearning%2Fwindows-10-despliegue-de-aplicaciones&psig=AOvVaw2udnidAbmdOoqvgKKGCkDn&ust=1728126698832000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjrw-LL9IgDFQAAAAAdAAAAABAE))
+![Descripción de la imagen](https://via.placeholder.com/150)
 
 | Encabezado 1 | Encabezado 2 |
 |---------------|---------------|
