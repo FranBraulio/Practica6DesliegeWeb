@@ -6,10 +6,9 @@ Este es un **párrafo** de ejemplo donde podemos incluir palabras en **negrita**
 def hola_mundo():
     print("¡Hola, mundo!")
 ```
-### 5. Lista ordenada
+### Lista ordenada
 Las listas ordenadas se crean con números seguidos de un punto.
 
-markdown
 1. Primer elemento
 2. Segundo elemento
 3. Tercer elemento
@@ -22,7 +21,7 @@ markdown
 
 [Enlace a otro fichero Markdown](otro_fichero.md)
 
-![Descripción de la imagen](https://via.placeholder.com/150)
+![Descripción de la imagen]([https://via.placeholder.com/150](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.linkedin.com%2Flearning%2Fwindows-10-despliegue-de-aplicaciones&psig=AOvVaw2udnidAbmdOoqvgKKGCkDn&ust=1728126698832000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjrw-LL9IgDFQAAAAAdAAAAABAE))
 
 | Encabezado 1 | Encabezado 2 |
 |---------------|---------------|
